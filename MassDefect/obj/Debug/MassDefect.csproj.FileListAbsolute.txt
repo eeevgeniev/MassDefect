@@ -1,0 +1,11 @@
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\MassDefect.exe.config
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\MassDefect.exe
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\MassDefect.pdb
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\EntityFramework.dll
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\Newtonsoft.Json.dll
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\EntityFramework.xml
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\bin\Debug\Newtonsoft.Json.xml
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\obj\Debug\MassDefect.exe
+c:\users\emo\documents\visual studio 2015\Projects\MassDefect\MassDefect\obj\Debug\MassDefect.pdb
